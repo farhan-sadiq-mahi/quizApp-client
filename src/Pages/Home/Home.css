@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+
+.appName {
+    font-family: 'Aboreto', cursive;
+}
+
+.logo {
+    width: 200px;
+}
+
+.home {
+    background-image: url("../../assets/img/bg3.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+@media only screen and (min-width: 768px) {
+    .home {
+        background-image: url("../../assets/img/bg.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+}

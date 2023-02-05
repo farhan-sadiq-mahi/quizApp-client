@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+
+.appName {
+    font-family: 'Aboreto', cursive;
+}
+
+.mlogo {
+    width: 70px;
+}
+
+.mySideBar{
+   background-image: url('../../assets/img/sideBG.png');
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-color: rgb(226, 226, 225);
+}

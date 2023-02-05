@@ -1,0 +1,101 @@
+[
+    {
+        "Question" : "What is 5 + 5 = ?" ,
+        "ans" : [
+            {"option": "52", "isCorrect" : false},
+            {"option": "10", "isCorrect" : true},
+            {"option": "20", "isCorrect" : false},
+            {"option": "30", "isCorrect" : false}
+        ]
+    },
+    {
+        "Question" : "What is 550 + 5 = ?" ,
+        "ans" : [
+            {"option": "55", "isCorrect" : false},
+            {"option": "20", "isCorrect" : false},
+            {"option": "555", "isCorrect" : true},
+            {"option": "30", "isCorrect" : false}
+        ]
+    },
+    {
+        "Question" : "What is 95 + 5 = ?" ,
+        "ans" : [
+            {"option": "52", "isCorrect" : false},
+            {"option": "20", "isCorrect" : false},
+            {"option": "100", "isCorrect" : true},
+            {"option": "30", "isCorrect" : false}
+        ]
+    },
+    {
+        "Question" : "What is 12 + 5 = ?" ,
+        "ans" : [
+            {"option": "52", "isCorrect" : false},
+            {"option": "20", "isCorrect" : false},
+            {"option": "17", "isCorrect" : true},
+            {"option": "30", "isCorrect" : false}
+        ]
+    },
+    {
+        "Question" : "What is 35 + 5 = ?" ,
+        "ans" : [
+            {"option": "40", "isCorrect" : true},
+            {"option": "52", "isCorrect" : false},
+            {"option": "20", "isCorrect" : false},
+            {"option": "30", "isCorrect" : false}
+        ]
+    },
+    {
+        "Question" : "What is 85 + 5 = ?" ,
+        "ans" : [
+            {"option": "52", "isCorrect" : false},
+            {"option": "90", "isCorrect" : true},
+            {"option": "20", "isCorrect" : false},
+            {"option": "30", "isCorrect" : false}
+        ]
+    },
+    {
+        "Question" : "What is 15 + 5 = ?" ,
+        "ans" : [
+            {"option": "52", "isCorrect" : false},
+            {"option": "10", "isCorrect" : false},
+            {"option": "20", "isCorrect" : true},
+            {"option": "30", "isCorrect" : false}
+        ]
+    },
+    {
+        "Question" : "What is 1 + 2 = ?" ,
+        "ans" : [
+            {"option": "52", "isCorrect" : false},
+            {"option": "20", "isCorrect" : false},
+            {"option": "30", "isCorrect" : false},
+            {"option": "2", "isCorrect" : true}
+        ]
+    },
+    {
+        "Question" : "What is 54 + 5 = ?" ,
+        "ans" : [
+            {"option": "590", "isCorrect" : false},
+            {"option": "59", "isCorrect" : true},
+            {"option": "210", "isCorrect" : false},
+            {"option": "308", "isCorrect" : false}
+        ]
+    },
+    {
+        "Question" : "What is 05 + 552 = ?" ,
+        "ans" : [
+            {"option": "10", "isCorrect" : false},
+            {"option": "520", "isCorrect" : false},
+            {"option": "557", "isCorrect" : true},
+            {"option": "320", "isCorrect" : false}
+        ]
+    },
+    {
+        "Question" : "What is 5 + 8 = ?" ,
+        "ans" : [
+            {"option": "52", "isCorrect" : false},
+            {"option": "12", "isCorrect" : true},
+            {"option": "20", "isCorrect" : false},
+            {"option": "30", "isCorrect" : false}
+        ]
+    }
+]
